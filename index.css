@@ -1,2 +1,7 @@
-h1
-bold;
+h1{
+    text-align:center;
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
